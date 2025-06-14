@@ -1,4 +1,4 @@
-markdown# 👋 안녕하세요! 프론트엔드 개발자입니다.
+👋 안녕하세요! 프론트엔드 개발자입니다.
 
 현대적인 웹 기술을 활용하여 사용자 경험을 중시하는 프론트엔드 애플리케이션을 개발합니다.
 
@@ -23,11 +23,11 @@ markdown# 👋 안녕하세요! 프론트엔드 개발자입니다.
 
 ## 📊 GitHub 통계
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naroso=o&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naroso-o&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naroso-o&theme=tokyonight&hide_border=true)
 
 ## 🚀 주요 관심사
 
@@ -38,4 +38,4 @@ markdown# 👋 안녕하세요! 프론트엔드 개발자입니다.
 - **클라우드 배포**: AWS EC2, CloudFront를 활용한 배포 및 CDN 최적화
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=naroso-o&color=blueviolet)
