@@ -24,7 +24,7 @@
 ## 📊 GitHub 통계
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naroso-o&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naroso-o&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=naroso-o&theme=tokyonight&hide_border=true)
 
 ## 🚀 주요 관심사
 
